@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Mouuhamd_Boussaid",
+    "master": true,
+    "password_hash": "$2a$11$Fm4Mbjbb5WJHdnfIFjVRXeaZ1E7BRBzt.50HOGNIlZ3TqNApJSWAC",
+    "providers": {
+      "citizenfx": {
+        "id": "Mouuhamd_Boussaid",
+        "identifier": "fivem:10366720",
+        "data": {}
+      },
+      "discord": {
+        "id": "852613600156713020",
+        "identifier": "discord:852613600156713020",
+        "data": {}
+      }
+    },
+    "permissions": []
+  }
+]
